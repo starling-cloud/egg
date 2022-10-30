@@ -1,7 +1,7 @@
 
-![Starling egg Logo](media/logo/starling_egg-logo.png)
-
-
+<p align="center">
+    <img src="media/logo/starling_egg-logo.png" width="20%" height="20%">
+</p>
 
 # Starling Egg
 

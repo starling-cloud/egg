@@ -26,7 +26,7 @@ Contributions from the public are welcome.
 
 ### Using the issue tracker 💡
 
-The issue tracker is the preferred channel for bug reports and features requests. [GitHub issues](https://github.com/scape-foundation/earth.txt/issues)
+The issue tracker is the preferred channel for bug reports and features requests. [GitHub issues](https://github.com/starling-associates/egg/issues)
 
 ### Issues and labels 🏷
 

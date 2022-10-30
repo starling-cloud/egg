@@ -1,3 +1,8 @@
+
+![Starling egg Logo](media/logo/starling_egg-logo.png)
+
+
+
 # Starling Egg
 
 Starling Egg is a Grasshopper template geared towards project collaboration.

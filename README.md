@@ -16,6 +16,17 @@
   <a href="">Ask a Question</a>
 </div>
 
+<br/>
+
+<div align="center">
+
+[![license](https://img.shields.io/github/license/starling-associates/egg?color=green&label=license&style=flat-square)](LICENSE.md)
+![sponsors](https://img.shields.io/github/sponsors/starling-associates?color=blue&label=sponsors&style=flat-square)
+[![website](https://img.shields.io/website?color=blue&down_color=red&down_message=offline&label=website&style=flat-square&up_color=blue&up_message=online&url=https%3A%2F%2Fwww.starling.associates)](https://www.starling.associates)
+
+</div>
+
+<br/>
 
 <details open="open">
 <summary>Table of Contents</summary>

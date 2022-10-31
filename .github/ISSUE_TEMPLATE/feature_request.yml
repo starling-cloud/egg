@@ -14,7 +14,7 @@ body:
       - This repo is maintained by volunteers. Please be courteous and patient. 🙂
       - Remember to include sufficient details and context.
       - If you have multiple requests submit them separately so we can track resolution.
-      - We accept pull requests. If you know how to make it - go ahead! If you're unsure how to do a pull request, consider signing up for a free [Sharing is Caring First-Time Contributor](http://aka.ms/sharing-is-caring#pnp-sic-first-time-contributor) session.
+      - We accept pull requests. If you know how to make it - go ahead!
 
 - type: textarea
   id: description

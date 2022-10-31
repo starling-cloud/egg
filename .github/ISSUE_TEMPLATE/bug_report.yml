@@ -10,12 +10,12 @@ body:
 
       Thank you for reporting a bug! Use the sections below to submit a bug **only** if it's related to features in this repo.
 
-      - Follow our guidance on [How To Create Good Issues](https://github.com/starling-associates/egg/wiki/How-to-Create-Good-Issues).
       - All bug reports are welcome - we want to fix them!
       - This repo is maintained by volunteers. Please be courteous and patient. 🙂
       - Remember to include sufficient details and context.
       - If you have multiple questions, suggestions, or bugs, please submit them in separate issues.
-      - We accept pull requests. If you know how to fix it - go ahead! If you know how to make it - go ahead! If you're unsure how to do a pull request, consider signing up for a free [Sharing is Caring First-Time Contributor](http://aka.ms/sharing-is-caring#pnp-sic-first-time-contributor) session.
+      - We accept pull requests. If you know how to fix it - go ahead!
+
 
       Please provide the following details about the issue you encountered.  *Issues that do not provide the information requested in this form will be flagged as **incomplete** & automatically closed.*
 
@@ -50,7 +50,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      Provide a clear & concise description of what the bug is. Please follow our guidance on [How To Create Good Issues](https://github.com/starling-associates/egg/wiki/How-to-Create-Good-Issues) which explains how to apply formatting, adding references & resources, screenshots, etc.
+      Provide a clear & concise description of what the bug is.
 
       **Do not attach ZIP files** of your code or compiled projects - instead, please publish your code to a public GitHub repo & post a link to it.
 

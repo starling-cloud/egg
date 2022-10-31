@@ -9,11 +9,15 @@
 <br/>
 
 <div align="center">
-  <a href="">Report a Bug</a>
+  <a href="https://github.com/starling-associates/egg/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug_report.yml">Report a Bug</a>
   |
-  <a href="">Request a Feature</a>
+  <a href="https://github.com/starling-associates/egg/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Afeature-request%2CHelp+wanted+%F0%9F%AA%A7&template=feature_request.yml">Request a Feature</a>
   |
-  <a href="">Ask a Question</a>
+  <a href="https://github.com/starling-associates/egg/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Aquestion&template=question.yml">Ask a Question</a>
+  |
+  <a href="https://github.com/starling-associates/egg/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Aenhancement&template=suggestion.yml">Make a Sugestion</a>
+  |
+  <a href="https://github.com/starling-associates/egg/discussions">Start a Discussion</a>
 </div>
 
 <br/>

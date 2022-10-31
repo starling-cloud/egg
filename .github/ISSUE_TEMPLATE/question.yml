@@ -10,7 +10,7 @@ body:
       Thank you for asking a question! Use the sections below to submit a question **only** if it's related to features in this repo.
 
       - Questions that do not follow the below template will automatically be closed
-      - Don't use questions to diagnose issues with features, that's what [bug reports](https://github.com/starling-associates/egg/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug-report.yml) are for!
+      - Don't use questions to diagnose issues with features, that's what [bug reports](https://github.com/starling-associates/egg/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug_report.yml) are for!
       - All questions are welcome - let us know what's on your mind!
       - This repo is maintained by volunteers. Please be courteous and patient. 🙂
       - Remember to include sufficient details and context.

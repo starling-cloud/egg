@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src=".github/images/starling_egg-logo.png" width="20%" height="20%" alt="Starling Egg Logo">
+    <img src=".github/images/starling_egg_logo.png" width="20%" height="20%" alt="Starling Egg Logo">
 </p>
 
 

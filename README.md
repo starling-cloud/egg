@@ -6,6 +6,17 @@
 <h3 align='center'>Starling Egg is a Grasshopper template geared towards project collaboration.</h3>
 </header>
 
+<br/>
+
+<div align="center">
+  <a href="">Report a Bug</a>
+  |
+  <a href="">Request a Feature</a>
+  |
+  <a href="">Ask a Question</a>
+</div>
+
+
 <details open="open">
 <summary>Table of Contents</summary>
 

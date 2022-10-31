@@ -19,6 +19,9 @@ The Grasshopper Template is a part of every Grasshopper project. It guides the w
 
 ...
 
+
+
+
 ## Authors
 
 **Starling Egg** is an open-source project by  [Starling Associates](https://www.starling.associates "Starling Associates website").
@@ -27,7 +30,7 @@ The Grasshopper Template is a part of every Grasshopper project. It guides the w
 
 ## License
 
-**Starling Egg** is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-nc-sa/3.0/ "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License")
+**Starling Egg** is licensed under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License").
 
 
 

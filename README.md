@@ -1,7 +1,8 @@
 
 <p align="center">
-    <img src="media/logo/starling_egg-logo.png" width="20%" height="20%">
+    <img src=".github/images/starling_egg-logo.png" width="20%" height="20%" alt="Starling Egg Logo>
 </p>
+
 
 # Starling Egg (WiP)
 

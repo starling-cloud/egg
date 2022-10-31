@@ -5,24 +5,27 @@
 <h3 align='center'>Starling Egg is a Grasshopper template geared towards project collaboration.</h3>
 
 
+<details open="open">
+<summary>Table of Contents</summary>
 
-**Starling Egg** consists of a reference document and a Rhino + Grasshopper template.
-
-The reference document describes how to start a new Grasshopper script, how to connect to the internal and packages, and how to visually organise and annotate the Grasshopper definition, so that it is easy to read, reusable and open for further development and changes.
-
-The Grasshopper Template is a part of every Grasshopper project. It guides the workflows of the designer as the Grasshopper definition is being created.
-
-
-
-
-## Table of Contents
-
+- [About](#about)
 - [Quick Start](#quick-start)
 - [Usage](#usage)
 - [Authors](#authors)
 - [License](#license)
 - [Contributing](#contributing)
 
+</details>
+
+
+## About
+
+
+**Starling Egg** consists of a reference document and a Rhino + Grasshopper template.
+
+The reference document describes how to start a new Grasshopper script, how to connect to the internal and packages, and how to visually organise and annotate the Grasshopper definition, so that it is easy to read, reusable and open for further development and changes.
+
+The Grasshopper Template is a part of every Grasshopper project. It guides the workflows of the designer as the Grasshopper definition is being created.
 
 
 ## Quick Start

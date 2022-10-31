@@ -3,7 +3,7 @@
     <img src="media/logo/starling_egg-logo.png" width="20%" height="20%">
 </p>
 
-# Starling Egg
+# Starling Egg (WiP)
 
 **Starling Egg** is a Grasshopper template geared towards project collaboration.
 

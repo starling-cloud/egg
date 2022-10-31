@@ -69,7 +69,24 @@ The Grasshopper Template is a part of every Grasshopper project. It guides the w
 
 ## Usage
 
-### Directory Structure
+
+### Grasshopper Colour Codes
+
+|Group              |   |   |   |   |
+|-------------------|---|---|---|---|
+|**Input**          |   |   |   |   |
+|Input: Rhino       |   |   |   |   |
+|Input: Grasshopper |   |   |   |   |
+|**Definiton**      |   |   |   |   |
+|                   |   |   |   |   |
+|**Output**         |   |   |   |   |
+|Output: Bake       |   |   |   |   |
+|Output: Viualise   |   |   |   |   |
+
+### Rhino Layer Structure
+
+
+### Project Directory Structure
 
 The directory structure for your project could look like this:
 

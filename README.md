@@ -92,7 +92,7 @@ website: [www.starling.associates](https://www.starling.associates "Starling Ass
 ## Roadmap
 
 
-## License
+## :information_source: License
 
 Except where otherwise noted, **Starling Egg** is licensed under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License").
 

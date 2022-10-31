@@ -72,6 +72,9 @@ The Grasshopper Template is a part of every Grasshopper project. It guides the w
 
 ### Grasshopper Colour Codes
 
+The colour codes of the Grasshopper are:
+
+
 |Group              |   |   |   |   |
 |-------------------|---|---|---|---|
 |**Input**          |   |   |   |   |
@@ -83,7 +86,17 @@ The Grasshopper Template is a part of every Grasshopper project. It guides the w
 |Output: Bake       |   |   |   |   |
 |Output: Viualise   |   |   |   |   |
 
+
 ### Rhino Layer Structure
+
+The layer structure of the Rhino template looks like this:
+
+```
+├── *
+├── gh
+    ├── input
+    └── bake
+```
 
 
 ### Project Directory Structure
@@ -96,6 +109,7 @@ project/
     ├── file.3dm
     └── file.gh
 ```
+
 
 ## :pencil: Authors
 

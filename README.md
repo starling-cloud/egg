@@ -80,7 +80,7 @@ project/
     └── file.gh
 ```
 
-## Authors
+## :pencil: Authors
 
 **Starling Egg** is an open-source project by [Starling Associates](https://www.starling.associates "Starling Associates website").
 
@@ -89,20 +89,20 @@ Starling is a spatial insight, strategy and design bureau that develops regenera
 website: [www.starling.associates](https://www.starling.associates "Starling Associates website")
 
 
-## Roadmap
+## :checkered_flag: Roadmap
 
 
-## :information_source: License
+## :key: License
 
 Except where otherwise noted, **Starling Egg** is licensed under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License").
 
 
-## Contributing
+## :busts_in_silhouette: Contributing
 
 We'd love for you to contribute and to make **Starling Egg** even better than it is today!
 Please refer to the [contribution guidelines](CONTRIBUTING.md) for information.
 
 
-## Disclaimer
+## :scroll: Disclaimer
 
 **THIS SOFTWARE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**

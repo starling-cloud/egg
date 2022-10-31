@@ -1,12 +1,9 @@
-
 <p align="center">
     <img src=".github/images/starling_egg_logo.png" width="20%" height="20%" alt="Starling Egg Logo">
 </p>
+<h1 align='center' style='border-bottom: none;'>Starling Egg</h1>
+<h3 align='center'>Starling Egg is a Grasshopper template geared towards project collaboration.</h3>
 
-
-# Starling Egg (WiP)
-
-**Starling Egg** is a Grasshopper template geared towards project collaboration.
 
 
 Starling Egg consists of a reference document and a Rhino + Grasshopper template.
@@ -16,11 +13,24 @@ The reference document describes how to start a new Grasshopper script, how to c
 The Grasshopper Template is a part of every Grasshopper project. It guides the workflows of the designer as the Grasshopper definition is being created.
 
 
+
+
+## Table of Contents
+
+- [Quick Start](#quick-start)
+- [Usage](#usage)
+- [Authors](#authors)
+- [License](#license)
+- [Contributing](#contributing)
+
+
+
 ## Quick Start
 
 ...
 
 
+## Usage
 
 ### Directory Structure
 
@@ -51,4 +61,5 @@ website: [www.starling.associates](https://www.starling.associates "Starling Ass
 
 ## Contributing
 
-Contributions from the public are welcome. Refer to the [contribution guidelines](CONTRIBUTING.md) for information on contributing to this project.
+We'd love for you to contribute and to make **Starling Egg** even better than it is today!
+Please refer to the [contribution guidelines](CONTRIBUTING.md) for information.

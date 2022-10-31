@@ -38,6 +38,7 @@
 - [Roadmap](#roadmap)
 - [License](#license)
 - [Contributing](#contributing)
+- [Disclaimer](#disclaimer)
 
 </details>
 
@@ -87,9 +88,12 @@ website: [www.starling.associates](https://www.starling.associates "Starling Ass
 Except where otherwise noted, **Starling Egg** is licensed under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License").
 
 
-
-
 ## Contributing
 
 We'd love for you to contribute and to make **Starling Egg** even better than it is today!
 Please refer to the [contribution guidelines](CONTRIBUTING.md) for information.
+
+
+## Disclaimer
+
+**THIS SOFTWARE ARE PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**

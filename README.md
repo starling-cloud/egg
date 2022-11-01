@@ -9,29 +9,29 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/starling-associates/egg/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug_report.yml">Report a Bug</a>
+  <a href="https://github.com/starling-cloud/egg/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug_report.yml">Report a Bug</a>
   |
-  <a href="https://github.com/starling-associates/egg/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Afeature-request%2CHelp+wanted+%F0%9F%AA%A7&template=feature_request.yml">Request a Feature</a>
+  <a href="https://github.com/starling-cloud/egg/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Afeature-request%2CHelp+wanted+%F0%9F%AA%A7&template=feature_request.yml">Request a Feature</a>
   |
-  <a href="https://github.com/starling-associates/egg/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Aquestion&template=question.yml">Ask a Question</a>
+  <a href="https://github.com/starling-cloud/egg/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Aquestion&template=question.yml">Ask a Question</a>
   |
-  <a href="https://github.com/starling-associates/egg/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Aenhancement&template=suggestion.yml">Make a Sugestion</a>
+  <a href="https://github.com/starling-cloud/egg/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Aenhancement&template=suggestion.yml">Make a Sugestion</a>
   |
-  <a href="https://github.com/starling-associates/egg/discussions">Start a Discussion</a>
+  <a href="https://github.com/starling-cloud/egg/discussions">Start a Discussion</a>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![license](https://img.shields.io/github/license/starling-associates/egg?color=green&label=license&style=flat-square)](LICENSE.md)
+[![license](https://img.shields.io/github/license/starling-cloud/egg?color=green&label=license&style=flat-square)](LICENSE.md)
 [![website](https://img.shields.io/website?color=blue&down_color=red&down_message=offline&label=website&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fwww.starling.associates)](https://www.starling.associates)
 
-![stars](https://img.shields.io/github/stars/starling-associates/egg?color=blue&label=stars&style=flat-square)
-![forks](https://img.shields.io/github/forks/starling-associates/egg?color=blue&label=forks&style=flat-square)
-![downloads](https://img.shields.io/github/downloads/starling-associates/egg/total?color=blue&label=downloads&style=flat-square)
-![sponsors](https://img.shields.io/github/sponsors/starling-associates?color=blue&label=sponsors&style=flat-square)
-![contributors](https://img.shields.io/github/contributors/starling-associates/egg?color=blue&label=contributors&style=flat-square)
+![stars](https://img.shields.io/github/stars/starling-cloud/egg?color=blue&label=stars&style=flat-square)
+![forks](https://img.shields.io/github/forks/starling-cloud/egg?color=blue&label=forks&style=flat-square)
+![downloads](https://img.shields.io/github/downloads/starling-cloud/egg/total?color=blue&label=downloads&style=flat-square)
+![sponsors](https://img.shields.io/github/sponsors/starling-cloud?color=blue&label=sponsors&style=flat-square)
+![contributors](https://img.shields.io/github/contributors/starling-cloud/egg?color=blue&label=contributors&style=flat-square)
 
 </div>
 
@@ -72,7 +72,7 @@ The Grasshopper Template is a part of every Grasshopper project. It guides the w
 
 ### Grasshopper Colour Codes
 
-The colour codes of the Grasshopper are:
+The colour codes of the Grasshopper template are:
 
 
 |Group              |   |   |   |   |

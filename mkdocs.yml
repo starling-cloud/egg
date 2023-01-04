@@ -1,4 +1,4 @@
-site_name: Starling Egg Docs
+site_name: Starling Egg
 
 dev_addr: 127.0.0.1:8888
 
@@ -9,12 +9,12 @@ theme:
     scheme: starling
     # primary: light blue
   logo: assets/logo.png
-  favicon: assets/images/favicon.png
+  favicon: assets/favicon/favicon.png
   # features:
   #   - navigation.tabs
 
 extra_css:
-  - stylesheets/extra.css
+  - assets/style/extra.css
 
 extra:
   generator: false

@@ -53,6 +53,12 @@ hide:
 nav:
   - Getting Started:
       - 'Introduction': 'index.md'
+  - Guide:
+      - 'Introduction': 'guide/introduction.md'
+      - 'Colour Codes': 'guide/colour_codes.md'
+  - Best Practices:
+      - 'Introduction': 'best_practices/introduction.md'
+      - 'Sketches': 'best_practices/sketches.md'
   - Glossary: 'glossary.md'
   - License: 'license.md'
   - Privacy Policy: 'privacy.md'

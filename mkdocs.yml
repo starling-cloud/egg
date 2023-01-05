@@ -15,7 +15,6 @@ theme:
   locale: en
   palette:
     scheme: starling
-    # primary: light blue
   logo: assets/image/logo_light.png
   favicon: assets/favicon/favicon.ico
   # features:
@@ -29,9 +28,9 @@ extra_templates:
 
 extra:
   generator: false
-  # analytics:
-  #   provider: google
-  #   property: G-XXXXXXXXXX
+  analytics:
+    provider: google
+    property: G-PECP1TMR9X
   social:
     - icon: fontawesome/solid/globe 
       link: https://www.starling.associates
@@ -47,7 +46,7 @@ extra:
 copyright: Copyright &copy; 2022 Starling Associates
 
 hide:
-  - footer
+  # - footer
 
 
 nav:
@@ -59,6 +58,11 @@ nav:
   - Best Practices:
       - 'Introduction': 'best_practices/introduction.md'
       - 'Sketches': 'best_practices/sketches.md'
-  - Glossary: 'glossary.md'
-  - License: 'license.md'
-  - Privacy Policy: 'privacy.md'
+  - Resources:
+      - 'Glossary': 'resources/glossary.md'
+      - 'Plugins': 'resources/plugins.md'
+      - 'Links': 'resources/links.md'
+  - Legal Information:
+      - 'License': 'legal/software_license.md'
+      - 'Privacy Policy': 'legal/privacy_policy.md'
+      - 'Disclaimer': 'legal/disclaimer.md'

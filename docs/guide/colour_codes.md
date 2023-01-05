@@ -5,3 +5,23 @@ When organizing your spaghetti you should definitely use colour labels for group
 
 The colour and the name of a group can be changed by right-clicking on it.
 
+
+### Grasshopper Colour Codes
+
+The colour codes of the Grasshopper template are:
+
+
+|Group              |   |   |   |   |
+|-------------------|---|---|---|---|
+|**Input**          |   |   |   |   |
+|Input: Rhino       |   |   |   |   |
+|Input: Grasshopper |   |   |   |   |
+|**Definiton**      |   |   |   |   |
+|                   |   |   |   |   |
+|**Output**         |   |   |   |   |
+|Output: Bake       |   |   |   |   |
+|Output: Viualise   |   |   |   |   |
+
+
+
+

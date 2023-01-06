@@ -62,7 +62,9 @@ nav:
       - 'Glossary': 'resources/glossary.md'
       - 'Plugins': 'resources/plugins.md'
       - 'Links': 'resources/links.md'
+  - About:
+      - 'Authors': 'legal/license.md'
   - Legal Information:
-      - 'License': 'legal/software_license.md'
+      - 'License': 'legal/license.md'
       - 'Privacy Policy': 'legal/privacy_policy.md'
       - 'Disclaimer': 'legal/disclaimer.md'

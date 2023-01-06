@@ -7,4 +7,4 @@ To create extra views, go to View→ Viewport layout → New Viewport. If a new 
 The cherry on top. When you work with several screens, you can grab your whole view and move it to another screen. To do that, catch your view and move it outside your view windows. The view will change to transparent, and now you can place it on another screen without any additional toolboxes, just pure view.
 
 
-![Named Views](assets/image/screenshots/named_views.png "Named Views")
+![Named Views](/assets/image/screenshots/named_views.png "Named Views")

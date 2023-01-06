@@ -9,7 +9,7 @@ The geometry pipeline is a link to the opened Rhino model, which lets you auto-r
 
 As a default under layer and name, an asterisk is set up. It means that absolute every object’s Name and Layer will be piped through the component. In other words, you can automatically select and chose all points or curves that exist in the Rhino file.
 
-![Geometry Pipeline](assets/image/screenshots/geometry_pipeline.png "Geometry Pipeline")
+![Geometry Pipeline](/assets/image/screenshots/geometry_pipeline.png "Geometry Pipeline")
 
 Let’s go into a practical example…
 

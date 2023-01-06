@@ -6,3 +6,4 @@
 - https://www.modelical.com/en/best-practices-in-grasshopper/
 - https://parametricbydesign.com/explanation/visual-programming/best-practices/
 - https://bimcorner.com/15-rhino-tips-while-working-with-grasshopper/
+- https://blog.syntegrate.jp/en/2022/01/21/gh_readability-en/

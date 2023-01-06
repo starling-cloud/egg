@@ -55,6 +55,7 @@ nav:
       - 'Introduction': 'guide/introduction.md'
       - 'Directory Structure': 'guide/directory_structure.md'
       - 'Layer Structure': 'guide/layer_structure.md'
+      - 'Legend': 'guide/legend.md'
       - 'Colour Codes': 'guide/colour_codes.md'
   - Best Practices:
       - 'Introduction': 'best_practices/introduction.md'

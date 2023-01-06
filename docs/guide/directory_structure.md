@@ -1,10 +1,14 @@
-# Project Directory Structure
+# Directory Structure
 
-The directory structure for your project could look like this:
+The directory structure for your Grasshopper project could look like this:
 
 ```
 project/
 └── definitions/
     ├── file.3dm
-    └── file.gh
+    ├── file.gh
+    └── data/
+        ├── data_01.csv
+        ├── data_02.json
+        └── ...
 ```

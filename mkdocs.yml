@@ -54,6 +54,8 @@ nav:
       - 'Introduction': 'index.md'
   - Guide:
       - 'Introduction': 'guide/introduction.md'
+      - 'Directory Structure': 'guide/directory_structure.md'
+      - 'Layer Structure': 'guide/layer_structure.md'
       - 'Colour Codes': 'guide/colour_codes.md'
   - Best Practices:
       - 'Introduction': 'best_practices/introduction.md'
@@ -64,6 +66,7 @@ nav:
       - 'Links': 'resources/links.md'
   - About:
       - 'Authors': 'about/authors.md'
+      - 'Acknowledgements': 'about/acknowledgements.md'
   - Legal Information:
       - 'License': 'legal/license.md'
       - 'Privacy Policy': 'legal/privacy_policy.md'

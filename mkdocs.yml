@@ -63,7 +63,7 @@ nav:
       - 'Plugins': 'resources/plugins.md'
       - 'Links': 'resources/links.md'
   - About:
-      - 'Authors': 'legal/license.md'
+      - 'Authors': 'about/authors.md'
   - Legal Information:
       - 'License': 'legal/license.md'
       - 'Privacy Policy': 'legal/privacy_policy.md'

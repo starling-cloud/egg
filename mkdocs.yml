@@ -59,8 +59,11 @@ nav:
       - 'Colour Codes': 'guide/colour_codes.md'
   - Best Practices:
       - 'Introduction': 'best_practices/introduction.md'
+      - 'Dependencies': 'best_practices/dependencies.md'
       - 'Sketches': 'best_practices/sketches.md'
       - 'Named Views': 'best_practices/named_views.md'
+      - 'Geometry Pipeline': 'best_practices/geometry_pipeline.md'
+      - 'Preview Mesh Edges': 'best_practices/preview_mesh_edges.md'
   - Resources:
       - 'Glossary': 'resources/glossary.md'
       - 'Plugins': 'resources/plugins.md'

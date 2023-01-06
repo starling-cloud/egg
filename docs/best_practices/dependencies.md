@@ -1,8 +1,19 @@
-… keep dependencies low.
+# Dependencies
 
-Two types of dependencies exist in Grasshopper: geometric objects from Rhino and external plugins for Grasshopper. Both should be kept to a minimum. Especially, when working on a project with several people and over a longer period of time.
+Grasshopper relies on two types of dependencies: 
+
+1. **External Geometry**: References geometry declared in Rhino, and 
+2. **External Components**: External plugins used within Grasshopper. 
+
+In general, it is best practice to keep dependencies to a minimum. Especially, when working on a project with several people and over a longer period of time.
+
+
+## External Geometry
 
 Referencing geometric objects from Rhino with a Grasshopper container is convenient at first, but it requires that the Rhino file is always opened in parallel. Also, the referenced geometry must not be deleted in Rhino; otherwise the connection is lost. The problem is that there is no hint in Rhino that an object is needed by an algorithm. To bypass the problem, at least for simple shapes, it’s possible to right-click the container in Grasshopper and select Internalise data. Now the object is saved within the Grasshopper file. If this is not an option, the referenced geometry should be on an extra layer, have another color or the filename should indicate the dependency.
+
+
+## External Components
 
 Other dependencies are components that are made available by external plugins for Grasshopper. Using one of them also requires all persons to have the same plugin installed when they’re opening the file. Also be aware that there are rare cases in which plugins are not backwards compatible.
 

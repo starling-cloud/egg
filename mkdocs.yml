@@ -50,6 +50,7 @@ copyright: Copyright &copy; 2022 Starling Associates
 
 nav:
   - Introduction: 'index.md'
+  - Quick Start: 'quick_start.md'
   - Guide:
       - 'Introduction': 'guide/introduction.md'
       - 'Directory Structure': 'guide/directory_structure.md'

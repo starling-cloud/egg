@@ -46,7 +46,7 @@ extra:
 copyright: Copyright &copy; 2022 Starling Associates
 
 hide:
-  # - footer
+  - footer
 
 
 nav:
@@ -60,6 +60,7 @@ nav:
   - Best Practices:
       - 'Introduction': 'best_practices/introduction.md'
       - 'Sketches': 'best_practices/sketches.md'
+      - 'Named Views': 'best_practices/named_views.md'
   - Resources:
       - 'Glossary': 'resources/glossary.md'
       - 'Plugins': 'resources/plugins.md'

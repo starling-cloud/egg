@@ -10,3 +10,9 @@ During the development of Starling Egg, we've built upon the following articles:
 - [BIM Corner | 5 Grasshopper tricks to defeat spaghetti monster](https://bimcorner.com/5-grasshopper-tricks-to-defeat-spaghetti-monster/)
 
 - https://blog.syntegrate.jp/en/2022/01/21/gh_readability-en/
+
+
+
+- https://geometrymatters.com/embryo-geometry-a-theory-of-evolution-from-a-single-cell-to-the-complex-vertebrate-body/
+- https://geometrymatters.com/the-shape-of-a-perfect-egg-defined-by-a-universal-formula/
+- https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.14680

@@ -5,7 +5,7 @@ Grasshopper relies on two types of dependencies:
 1. **External Geometry**: References geometry declared in Rhino, and 
 2. **External Components**: External plugins used within Grasshopper. 
 
-In general, it is best practice to keep dependencies to a minimum. Especially, when working on a project with several people and over a longer period of time.
+In general, it is best practice to keep dependencies to a very minimum. Especially, when working on a project with several people and over a longer period of time.
 
 
 ## External Geometry

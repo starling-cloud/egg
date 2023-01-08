@@ -2,23 +2,33 @@ site_name: Starling Egg
 site_url: https://www.egg.tools/
 site_description: Starling Egg is a Grasshopper template geared towards project collaboration.
 site_author: Starling Associates
-lang: en
-
+base_url: https://www.egg.tools/
 repo_name: 'GitHub'
 repo_url: https://github.com/starling-cloud/egg/
 edit_uri_template: 'docs/{path}'
+
+lang: en
 
 dev_addr: 127.0.0.1:8888
 
 theme:
   name: material
+  custom_dir: 'docs/overrides'
   locale: en
   palette:
     scheme: starling
+    # primary: 'teal'
+    # accent: 'light'
   logo: assets/image/logo_light.png
   favicon: assets/favicon/favicon.ico
-  # features:
+  features:
   #   - navigation.tabs
+  #   - navigation.tabs.sticky
+  #   - navigation.expand
+  #   - navigation.indexes
+  #   - toc.integrate
+    - search.highlight
+    - search.suggest
 
 extra_css:
   - assets/style/extra.css
@@ -44,6 +54,15 @@ extra:
       link: https://www.facebook.com/starlingclouds/
 
 copyright: Copyright &copy; 2022 Starling Associates
+
+# markdown_extensions:
+#   - meta
+#   - md_in_html
+#   - toc:
+#       permalink: true
+#   - pymdownx.emoji:
+#       emoji_index: !!python/name:materialx.emoji.twemoji
+#       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 # hide:
 #   - footer

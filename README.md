@@ -34,6 +34,9 @@
   ![contributors](https://img.shields.io/github/contributors/starling-cloud/egg?color=blue&label=contributors&style=flat-square)
 
 </div>
+
+---
+
 <br/>
 <details open="open">
 <summary>Table of Contents</summary>

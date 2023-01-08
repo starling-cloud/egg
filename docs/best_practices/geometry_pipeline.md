@@ -16,3 +16,13 @@ Let’s go into a practical example…
 If you would like to filter one specific layer, type the layer’s full name into the component. Note that the filter notations are case sensitive, so it is essential to write precisely characters with small or big letters. OK, but what if you need all layers that start with the ? Nothing hard. Just put an asterisk after your main name part, and the component will filter the rest for you. Furthermore, you can be more precise and use after your main text a question mark to specify any single character in this place or hashtag to grab just digits (0-9). To show you how does it work. Let’s assume that we have four layers called Roadline 1, Roadline 2, Roadline A, Roadline B. Writing in filter a command filters just layers Roadline 1 and Roadline 2.
 
 Whole list with regular expressions how to use them in Geometry Pipeline you can find below.
+
+
+
+
+
+Referenced Geomometry
+
+
+Referenced geometry
+Referenced Geometry is the geometry that is defined in Rhino and important into Grasshopper by using Set Geometry options. These can be either points, curves, surfaces, breps, boxes, meshes, groups, etc. Geometry can be defined in Rhino as well in Grasshopper. This difference will dictate the possibility of changing the geometry later in Rhino and not only in Grasshopper. This will influence the design process and the capacity to effectively altering your design geometry. If the content of the parameters is defined in Grasshopper, the options of modifying the geometry in Rhino itself will be lost. If however the content of the parameter is based on Rhino geometry the geometry can be altered in Rhino resulting in a modifica

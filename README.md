@@ -1,13 +1,11 @@
 <header>
-<p align="center">
-    <img src=".github/images/starling_egg_logo.png" width="20%" height="20%" alt="Starling Egg Logo">
-</p>
-<h1 align='center' style='border-bottom: none;'>Starling Egg</h1>
-<h3 align='center'>Starling Egg is a Grasshopper template geared towards project collaboration.</h3>
+  <p align="center">
+      <img src=".github/images/starling_egg_logo.png" width="20%" height="20%" alt="Starling Egg Logo">
+  </p>
+  <h1 align='center' style='border-bottom: none;'>Starling Egg</h1>
+  <h3 align='center'>Starling Egg is a Grasshopper template geared towards project collaboration.</h3>
 </header>
-
 <br/>
-
 <div align="center">
   <a href="https://github.com/starling-cloud/egg/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&template=bug_report.yml">Report a Bug</a>
   |
@@ -19,24 +17,18 @@
   |
   <a href="https://github.com/starling-cloud/egg/discussions">Start a Discussion</a>
 </div>
-
 <br/>
-
 <div align="center">
+  [![license](https://img.shields.io/github/license/starling-cloud/egg?color=green&label=license&style=flat-square)](LICENSE.md)
+  [![website](https://img.shields.io/website?color=blue&down_color=red&down_message=offline&label=website&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fwww.egg.tools)](https://www.egg.tools)
 
-[![license](https://img.shields.io/github/license/starling-cloud/egg?color=green&label=license&style=flat-square)](LICENSE.md)
-[![website](https://img.shields.io/website?color=blue&down_color=red&down_message=offline&label=website&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fwww.starling.associates)](https://www.starling.associates)
-
-![stars](https://img.shields.io/github/stars/starling-cloud/egg?color=blue&label=stars&style=flat-square)
-![forks](https://img.shields.io/github/forks/starling-cloud/egg?color=blue&label=forks&style=flat-square)
-![downloads](https://img.shields.io/github/downloads/starling-cloud/egg/total?color=blue&label=downloads&style=flat-square)
-![sponsors](https://img.shields.io/github/sponsors/starling-cloud?color=blue&label=sponsors&style=flat-square)
-![contributors](https://img.shields.io/github/contributors/starling-cloud/egg?color=blue&label=contributors&style=flat-square)
-
+  ![stars](https://img.shields.io/github/stars/starling-cloud/egg?color=blue&label=stars&style=flat-square)
+  ![forks](https://img.shields.io/github/forks/starling-cloud/egg?color=blue&label=forks&style=flat-square)
+  ![downloads](https://img.shields.io/github/downloads/starling-cloud/egg/total?color=blue&label=downloads&style=flat-square)
+  ![sponsors](https://img.shields.io/github/sponsors/starling-cloud?color=blue&label=sponsors&style=flat-square)
+  ![contributors](https://img.shields.io/github/contributors/starling-cloud/egg?color=blue&label=contributors&style=flat-square)
 </div>
-
 <br/>
-
 <details open="open">
 <summary>Table of Contents</summary>
 
@@ -65,50 +57,6 @@ The Grasshopper Template is a part of every Grasshopper project. It guides the w
 ## Quick Start
 
 ...
-
-
-## Usage
-
-
-### Grasshopper Colour Codes
-
-The colour codes of the Grasshopper template are:
-
-
-|Group              |   |   |   |   |
-|-------------------|---|---|---|---|
-|**Input**          |   |   |   |   |
-|Input: Rhino       |   |   |   |   |
-|Input: Grasshopper |   |   |   |   |
-|**Definiton**      |   |   |   |   |
-|                   |   |   |   |   |
-|**Output**         |   |   |   |   |
-|Output: Bake       |   |   |   |   |
-|Output: Viualise   |   |   |   |   |
-
-
-### Rhino Layer Structure
-
-The layer structure of the Rhino template looks like this:
-
-```
-├── *
-├── gh
-    ├── input
-    └── bake
-```
-
-
-### Project Directory Structure
-
-The directory structure for your project could look like this:
-
-```
-project/
-└── definitions/
-    ├── file.3dm
-    └── file.gh
-```
 
 
 ## :pencil: Authors

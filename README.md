@@ -59,6 +59,11 @@ The reference document describes how to start a new Grasshopper script, how to c
 
 The Grasshopper Template is a part of every Grasshopper project. It guides the workflows of the designer as the Grasshopper definition is being created.
 
+The Rhino Grasshopper template for project collaboration is a powerful tool for architects, engineers, and designers to collaborate on complex building and design projects. The template utilizes the Rhino 3D modeling software and the Grasshopper visual programming language to create a streamlined workflow for project collaboration.
+
+Users can easily share and work on 3D models, design variations, and project data with team members, regardless of their location. The template also includes built-in version control, allowing users to track changes and revert to previous versions if necessary. Additionally, the template allows for real-time collaboration, enabling team members to work on the same model simultaneously and view each other's progress in real-time.
+
+The Rhino Grasshopper template for project collaboration is also customizable, allowing users to add their own custom scripts and plugins to enhance the functionality and automation of their workflow. With this template, teams can improve communication, increase efficiency, and streamline the design process, resulting in a more successful project outcome.
 
 ## Quick Start
 

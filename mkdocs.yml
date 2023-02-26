@@ -177,6 +177,7 @@ nav:
       - 'Layer Structure': 'guide/layer_structure.md'
       - 'Legend': 'guide/legend.md'
       - 'Colour Codes': 'guide/colour_codes.md'
+      - 'Parameters': 'guide/parameters.md'
   - Best Practices:
       - 'Introduction': 'best_practices/introduction.md'
       - 'Dependencies': 'best_practices/dependencies.md'

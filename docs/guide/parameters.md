@@ -1,10 +1,29 @@
 # Parameters
 
 
+
+
+### Parameter Types
+
+Design Variables, or sometimes referred to as User Defined Variables, are those parameters that are crucial to the concept definition of the design. Often those parameters contain numerical inputs that are allowed to change during the design (and/or optimization). A parameter is a symbolic name often associated with a numerical value and which may be changed. Not all parameters are Design Variables but all Design Variables are parameters. Parameters could be constant. If this is the case, do not use sliders to define their values, but Set Numbers instead. Clearly label Design Variables.
+
+
+
+#### Input Parameters
+These are parameters that provide input values to a Grasshopper definition. Input parameters can be used to define the starting point for a design or to allow users to provide specific input values.
+
+#### Output Parameters
+These are parameters that provide output values from a Grasshopper definition. Output parameters can be used to display the results of a design or to provide data to other software applications.
+
+
+
+
+### Parameter Naming Conventions
+
 When naming design parameters in your Rhino Grasshopper scripts, it is important to use clear and descriptive names that accurately reflect the purpose of the parameter. 
 Using the following best practices, you can create more readable, understandable, and maintainable definitions in Rhino Grasshopper:
 
-#### 1. Meaningful Mames
+#### 1. Meaningful Names
 Always use descriptive and meaningful names: Use names that describe the purpose or function of the parameter. Avoid using vague or generic names that do not provide enough information about the parameter's role in the definition.
 
 2. Use consistent naming conventions: Use consistent naming conventions throughout your definition. This makes it easier to understand the relationships between different parameters and components.
@@ -21,11 +40,26 @@ Always use descriptive and meaningful names: Use names that describe the purpose
 
 
 
+
+### Parameter Type Conventions
+
+
+
+#### single
+
+'''
+(parameter)
+'''
+
+#### list
+
+'''
+[parameter]
+'''
+
 Design Variables and Parameters
 
 
-Different types of parameters
-Design Variables, or sometimes referred to as User Defined Variables, are those parameters that are crucial to the concept definition of the design. Often those parameters contain numerical inputs that are allowed to change during the design (and/or optimization). A parameter is a symbolic name often associated with a numerical value and which may be changed. Not all parameters are Design Variables but all Design Variables are parameters. Parameters could be constant. If this is the case, do not use sliders to define their values, but Set Numbers instead. Clearly label Design Variables.
 
 
 

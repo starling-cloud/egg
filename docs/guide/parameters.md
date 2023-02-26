@@ -4,7 +4,8 @@
 When naming design parameters in your Rhino Grasshopper scripts, it is important to use clear and descriptive names that accurately reflect the purpose of the parameter. 
 Using the following best practices, you can create more readable, understandable, and maintainable definitions in Rhino Grasshopper:
 
-1. Always use descriptive and meaningful names: Use names that describe the purpose or function of the parameter. Avoid using vague or generic names that do not provide enough information about the parameter's role in the definition.
+#### 1. Meaningful Mames
+Always use descriptive and meaningful names: Use names that describe the purpose or function of the parameter. Avoid using vague or generic names that do not provide enough information about the parameter's role in the definition.
 
 2. Use consistent naming conventions: Use consistent naming conventions throughout your definition. This makes it easier to understand the relationships between different parameters and components.
 

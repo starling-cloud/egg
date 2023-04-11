@@ -30,6 +30,7 @@ By using a well-designed template, designers can ensure that their designs meet 
 Templates can be tailored to a designer's specific needs and preferences, providing a personalized starting point for each project.
 
 
+Customize the template to fit your needs: The Starling Egg template is designed to be flexible and adaptable, so you can customize it to fit the specific needs of your project. You can add new components, modify existing ones, and create your own tools and workflows.
 
 
 
